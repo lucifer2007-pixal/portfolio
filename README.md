@@ -4,7 +4,7 @@ This repository contains my personal portfolio website built with HTML, CSS, and
 
 ## Live site
 
-https://lucifer2007-pixal.github.io
+https://lucifer2007-pixal.github.io/portfolio/
 
 ## About
 
